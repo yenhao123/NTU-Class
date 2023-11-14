@@ -6,12 +6,14 @@ Learned :
 
 ## HW1
 Target topic : When can machines learn?
+
 Learned : 
 * Perceptron Learning Algorithm
     * Influence when sacling bias or weight
 
 ## HW2
 Target topic : Why can machines learn? 
+
 Learned : 
 * Hoeffding Inequalities
 * VC Dimension
@@ -19,6 +21,7 @@ Learned :
 
 ## HW3
 Target topic : How can machines learn? 
+
 Learned : 
 * Noise and Error
     * Expectation
@@ -27,6 +30,8 @@ Learned :
 
 ## HW4
 Target topic : How can machines learn better?
+
+Learned : 
 * Feature Transformation with Linear Regression
 * Combatting Overfitting
     * Regularization
