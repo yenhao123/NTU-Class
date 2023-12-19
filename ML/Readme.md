@@ -36,3 +36,18 @@ Learned :
 * Combatting Overfitting
     * Regularization
 * Learning Principles
+
+## HW5
+Target topic : ML Techniques
+
+Learned : 
+* SVM
+
+## HW6
+Target topic : ML Techniques
+
+Learned : 
+* CART
+* Random Forest
+* Adaboost
+* NN
